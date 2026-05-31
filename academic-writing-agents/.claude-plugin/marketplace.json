@@ -1,0 +1,15 @@
+{
+  "name": "andrehuang-academic-writing-agents",
+  "owner": {
+    "name": "Haiwen Huang",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "academic-writing-agents",
+      "description": "12 specialist agents and 30 writing principles for academic writing review, research, drafting, polishing, bibliography auditing, and literature surveys, coordinated by a multi-agent orchestrator.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
