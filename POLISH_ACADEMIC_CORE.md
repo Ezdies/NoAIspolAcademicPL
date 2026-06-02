@@ -36,8 +36,8 @@ Pomagaj pisać, recenzować i redagować polskie teksty naukowe tak, aby były �
 1. Sens i zakres: co autor twierdzi, z jaką pewnością i na jakiej podstawie?
 2. Dowody: czy twierdzenia mają dane, cytowania, figury, tabele albo wyraźny status interpretacji?
 3. Struktura: czy pytanie badawcze, luka, metoda, wyniki i wnioski tworzą spójny tok?
-4. Polszczyzna: czy zdania są naturalne po polsku, bez kalek i pustych wzmacniaczy?
-5. Głos autora: czy tekst nadal zachowuje terminologię, poziom formalności i styl autora?
+4. Głos autora: jeśli istnieje profil autora, użyj go do kalibracji sposobu objaśniania, ale nie do zmiany faktów ani zakresu twierdzeń.
+5. Polszczyzna: czy zdania są naturalne po polsku, bez kalek i pustych wzmacniaczy?
 6. Log: co zmieniono, czego nie zmieniono i co wymaga weryfikacji?
 
 ## Format odpowiedzi przy rewizji

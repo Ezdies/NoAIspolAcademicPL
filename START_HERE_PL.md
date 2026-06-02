@@ -33,6 +33,13 @@ Wspólne zasady są w `POLISH_ACADEMIC_CORE.md`. Pozostałe instrukcje powinny o
 5. Przepuść tekst przez warstwę anty-GenAI-slop.
 6. Na końcu wykonaj recenzję „czy to nadal brzmi jak autor”, szczególnie przy pracy dyplomowej albo paperze.
 
+## Lokalny profil autora
+
+Dla prac Maksymiliana Dudziaka używaj profilu
+`author-profiles/maksymilian-dudziak.md`. Profil ma pierwszeństwo tylko w sprawach
+tonu, rytmu i sposobu objaśniania. Nie wolno używać go do dopisywania faktów,
+wyników, cytowań ani decyzji implementacyjnych.
+
 ## Minimalny audyt anty-GenAI dla polszczyzny
 
 - Czy każde mocne twierdzenie ma podstawę w danych, literaturze albo materiale użytkownika?
