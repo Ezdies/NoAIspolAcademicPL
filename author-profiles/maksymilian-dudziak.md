@@ -22,6 +22,10 @@ akademickich formuł.
   bezosobowe.
 - Zdania mogą być średniej długości, jeżeli precyzyjnie niosą zależność
   techniczną. Nie trzeba sztucznie skracać tekstu do stylu notatkowego.
+- Powtórzenia terminów technicznych są dopuszczalne tylko wtedy, gdy pilnują
+  precyzji. Jeśli kilka sąsiednich zdań powtarza `MCP`, `PostgreSQL`, "serwer",
+  "agent" albo "zapytanie", przebuduj część zdań przez zmianę szyku, usunięcie
+  zbędnego podmiotu albo jasny zamiennik.
 - Przejścia do kolejnych sekcji mogą pojawiać się pod koniec fragmentu, ale mają
   tylko zapowiadać relację. Nie powinny streszczać treści, która ma własną sekcję
   dalej.
@@ -38,11 +42,14 @@ akademickich formuł.
   tekst brzmiał bardziej konkretnie.
 - Nie uprzedzaj późniejszych sekcji. Przed redakcją sprawdź tytuły sekcji w danym
   rozdziale i pilnuj, żeby bieżący fragment odpowiadał własnemu tematowi.
+- Nie maskuj powtórzeń przypadkowymi synonimami. Zamiennik ma być naturalny
+  i jednoznaczny technicznie.
 
 ## Kolejność użycia
 
 1. Najpierw sprawdź sens, zakres twierdzeń, cytowania i materiał dowodowy.
 2. Sprawdź strukturę rozdziału i granice bieżącej sekcji.
-3. Dopiero potem dostosuj rytm i sposób objaśniania do profilu autora.
-4. Na końcu wykonaj audyt AntiSlopPL, czy dopasowanie stylu nie wprowadziło
+3. Sprawdź powtórzenia w sąsiednich zdaniach i akapitach.
+4. Dopiero potem dostosuj rytm i sposób objaśniania do profilu autora.
+5. Na końcu wykonaj audyt AntiSlopPL, czy dopasowanie stylu nie wprowadziło
    przesady, kalek albo generycznych zakończeń.
