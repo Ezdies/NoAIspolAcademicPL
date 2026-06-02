@@ -26,6 +26,10 @@ akademickich formuł.
   precyzji. Jeśli kilka sąsiednich zdań powtarza `MCP`, `PostgreSQL`, "serwer",
   "agent" albo "zapytanie", przebuduj część zdań przez zmianę szyku, usunięcie
   zbędnego podmiotu albo jasny zamiennik.
+- Fraza "w tej pracy" może się pojawić, ale nie jako automatyczny początek
+  kolejnych zdań. Gdy wraca zbyt często, zastąp ją konkretnym podmiotem:
+  "dalsze rozdziały", "część projektowa", "badanie", "analiza" albo nazwą
+  omawianego elementu.
 - Przejścia do kolejnych sekcji mogą pojawiać się pod koniec fragmentu, ale mają
   tylko zapowiadać relację. Nie powinny streszczać treści, która ma własną sekcję
   dalej.
@@ -44,6 +48,8 @@ akademickich formuł.
   rozdziale i pilnuj, żeby bieżący fragment odpowiadał własnemu tematowi.
 - Nie maskuj powtórzeń przypadkowymi synonimami. Zamiennik ma być naturalny
   i jednoznaczny technicznie.
+- Nie nadużywaj "w tej pracy" jako metazwrotu. Często można go usunąć bez straty
+  sensu albo zastąpić informacją, co dokładnie będzie opisane.
 
 ## Kolejność użycia
 
